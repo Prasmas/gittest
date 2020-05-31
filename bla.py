@@ -9,7 +9,7 @@ def fakrek(n):
 print(fakrek(5))
 
 def fakit(n):
-	i=1
+	i=1 #ha
 	fak=1 
 	while i <=n:
 		fak = fak*i
